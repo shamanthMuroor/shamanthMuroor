@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Hello](https://i.giphy.com/media/fTI9mBoWLef8k/giphy.gif)
+
+- 📫 How to reach me: [shamanthm3@gmail.com](mailto:shamanthm3@gmail.com)
+
 <!--
 **shamanthMuroor/shamanthMuroor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
